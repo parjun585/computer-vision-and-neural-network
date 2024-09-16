@@ -1,1 +1,1 @@
-# computer-vision-project
+# computer-vision and neural networks 
